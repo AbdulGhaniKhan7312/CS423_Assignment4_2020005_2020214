@@ -20,4 +20,5 @@ terraform init
 
 # Deploy Infrastructure:
 terraform plan
+
 terraform apply
