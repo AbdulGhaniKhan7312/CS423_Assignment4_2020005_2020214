@@ -19,5 +19,5 @@ cd <repository_directory>
 terraform init
 
 # Deploy Infrastructure:
-terraform plan  # Review the execution plan
-terraform apply # Deploy the infrastructure
+terraform plan
+terraform apply
